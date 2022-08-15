@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite errors="0" failures="0" name="io.cucumber.core.plugin.JUnitFormatter" skipped="0" tests="1" time="7.441">
+    <testcase classname="Login functionalities" name="To verify the login functionalities" time="7.261">
+        <system-out><![CDATA[Given Setup.................................................................passed
+When Enter the usernsame amd password.......................................passed
+]]></system-out>
+    </testcase>
+</testsuite>
